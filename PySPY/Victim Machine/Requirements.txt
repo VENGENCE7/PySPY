@@ -1,0 +1,8 @@
+cryptography==36.0.1
+Pillow==9.0.1
+pynput==1.7.6
+pywin32==303
+requests==2.27.1
+scipy==1.8.0
+sounddevice==0.4.4
+uuid==1.30
