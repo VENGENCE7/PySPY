@@ -29,7 +29,7 @@
     <a href="https://github.com/VENGENCE7/PySPY"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/VENGENCE7/PySPY">View Demo</a>
+    <a href="https://github.com/VENGENCE7/PySPY/tree/main/images">View Images</a>
     ·
     <a href="https://github.com/VENGENCE7/PySPY/issues">Report Bug</a>
     ·
