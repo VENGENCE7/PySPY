@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/VENGENCE7/PySPY">
-    <img src="images/pyspy.png" alt="Logo" width="350" height="170">
+    <img src="pyspy.png" alt="Logo" width="350" height="170">
   </a>
 
 <h3 align="center">PySPY Gallery</h3>
@@ -30,28 +30,28 @@
 <!-- ET -->  
 ## Execution Time
 
-   <div align="center"> <img src="images/time.png" alt="image"> <div/> 
+   <div align="center"> <img src="time.png" alt="image"> <div/> 
   
 <!-- SI -->  
 ## System Information
   
-   <div align="center"> <img src="images/sysinfo.png" alt="image"> <div/>
+   <div align="center"> <img src="sysinfo.png" alt="image"> <div/>
   
 <!-- CS -->  
 ## Complimentary Script
   
-   <div align="center"> <img src="images/script.png" alt="image"> <div/>
+   <div align="center"> <img src="script.png" alt="image"> <div/>
   
 <!-- EK -->  
 ## Encryption Key
   
   
-  <div align="center"> <img src="images/e-key.png" alt="image"> <div/>
+  <div align="center"> <img src="e-key.png" alt="image"> <div/>
   
 <!-- ZI -->  
 ## Zip Info
   
-   <div align="center"> <img src="images/zipinfo.png" alt="image"> <div/>
+   <div align="center"> <img src="zipinfo.png" alt="image"> <div/>
 
   
 <br>
