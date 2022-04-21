@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/VENGENCE7/PySPY">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/pyspy.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">PySPY</h3>
